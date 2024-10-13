@@ -3,9 +3,9 @@ Python-Analysis-Kuisioner is a data analysis project that explores survey result
 
 ## How to Run
 1. Clone the repository:
-   git clone https: https://github.com/PutriMasya/Python-Analysis-Kuisioner.git
+   'git clone https: https://github.com/PutriMasya/Python-Analysis-Kuisioner.git'
 2. Install the required libraries:
-   pip install -r requirements.txt
+   'pip install -r requirements.txt'
 3. The dataset is already included in the dataset/ folder.
 4. Open the Google Colab link and run the cells.
 
